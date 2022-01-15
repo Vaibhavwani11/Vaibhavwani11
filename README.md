@@ -1,5 +1,6 @@
 ### Hi👋, I'm Vaibhav
  I am a CSE Undergrad
+ <br>
  I’m looking to collaborate on various projects around Computer Science.
 
 <!--START_SECTION:activity-->
