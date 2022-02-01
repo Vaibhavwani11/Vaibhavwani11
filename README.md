@@ -3,6 +3,8 @@
  <br>
  🔭 I’m looking to collaborate on various projects around Computer Science.
 
+Connect with  me:
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/vaibhav1106)
 <br>
                                                                                                                              
 [![Vaibhav’s github stats](https://github-readme-stats.vercel.app/api?username=Vaibhavwani11)](https://github.com/Vaibhavwani11)
