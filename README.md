@@ -3,6 +3,9 @@
  <br>
  🔭 I’m looking to collaborate on various projects around Computer Science.
 
+<br>
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
 <!--START_SECTION:activity-->
 
 <!--
