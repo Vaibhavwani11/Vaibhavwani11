@@ -4,8 +4,9 @@
  🔭 I’m looking to collaborate on various projects around Computer Science.
 
 <br>
-<img alt=”React” src=”(https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
+<--img alt=”React” src=”(https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/-->
+                                                                                                                             
+[![Vaibhav’s github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/Vaibhavwani11)
 <!--START_SECTION:activity-->
 
 <!--
