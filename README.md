@@ -5,7 +5,7 @@
 
 Connect with  me
 <br>
-<a href="(https://www.linkedin.com/in/vaibhav1106)"><img src="(https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="(https://www.linkedin.com/in/vaibhav1106)"><img src="(https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
                                                                                                                              
 [![Vaibhav’s github stats](https://github-readme-stats.vercel.app/api?username=Vaibhavwani11)](https://github.com/Vaibhavwani11)
