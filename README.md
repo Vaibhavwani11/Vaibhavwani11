@@ -18,9 +18,10 @@
 <a href="https://twitter.com/_vaibhav11_" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
 <a href="mailto:vaibhavwani2428@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
  </div>
+    
 
 ![Vaibhav's github stats](https://github-readme-stats.vercel.app/api?username=Vaibhavwani11&theme=dracula&count_private=true&show_icons=true&include_all_commits=true?line_height=24) 
-![Most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavwani11&theme=dracula&layout=compact&langs_count=8)
+![Most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavwani11&theme=dracula&layout=compact&langs_count=8line_height=24)
                                                                                                                              
 <!--[![Vaibhav’s github stats](https://github-readme-stats.vercel.app/api?username=Vaibhavwani11)](https://github.com/Vaibhavwani11)-->
 <!--START_SECTION:activity-->
