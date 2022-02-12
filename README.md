@@ -20,7 +20,7 @@
  </div>
 
 <br>    
-![Vaibhav's github stats](https://github-readme-stats.vercel.app/api?username=Vaibhavwani11&theme=dracula&count_private=true&show_icons=true&include_all_commits=true?line_height=24)
+![Vaibhav's github stats](https://github-readme-stats.vercel.app/api?username=Vaibhavwani11&theme=dracula&count_private=true&show_icons=true&include_all_commits=true?line_height=24) 
     
 ![Most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavwani11&theme=dracula&layout=compact&langs_count=8)
                                                                                                                              
