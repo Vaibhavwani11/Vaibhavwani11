@@ -2,8 +2,6 @@
 <h1 align="center">
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey there, I'm Vaibhav Wani
 </h1>
-
-I am currently pursuing my Bachelor's in Engineering in Information Technology from Pune Institute of Computer Technology. I have profound interest in all fields of Computer Science and Technology. My core domains involve Software and Web Development, Cloud Computing and Devops. I am also exploring the areas of Machine Learning and Deep learning currently. 
 <hr>
 <!--## Hey! I'm Vaibhav Wani. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">-->
  ⚡I am a CSE Undergrad with Data Science as honors. I have profound interest in all fields of Computer Science and Technology. 
