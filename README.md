@@ -1,4 +1,5 @@
-### Hi👋, I'm Vaibhav
+<!-### Hi👋, I'm Vaibhav->
+## Hey! I'm Vaibhav Wani. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
  ⚡ I am a CSE Undergrad
  <br>
  🔭 I’m looking to collaborate on various projects around Computer Science.
